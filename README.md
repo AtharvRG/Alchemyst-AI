@@ -50,6 +50,5 @@ npm run dev
 Open `http://localhost:3000` in your browser.
 
 
-
 ## Screen Recording
-The mandatory chaos mode screen recording is included in the repository as `chaos-survival.mp4` or here: `https://youtu.be/Cqqmugtsf4o`
+The mandatory chaos mode screen recording is included in the repository as `chaos-survival.mp4` or here: https://youtu.be/Cqqmugtsf4o
