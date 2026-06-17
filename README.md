@@ -1,3 +1,5 @@
+> I ackowledge the usage of AI for Assisted Coding & Evaluation  
+
 # Alchemyst AI - Agent Console
 
 ## Architectural Summary
